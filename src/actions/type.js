@@ -1,0 +1,1 @@
+export const FETCH_ARTIST_LIST = 'FETCH_ARTIST_LIST';
